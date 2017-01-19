@@ -15,7 +15,7 @@ if (check('my-file')) {
 }
 ```
 
-> Working example in [test.js](https://github.com/tobihrbr/dir-check/blob/master/test.js)
+> Working example in [test.js](https://github.com/tobihrbr/file-check/blob/master/test.js)
 
 ## License
 MIT
